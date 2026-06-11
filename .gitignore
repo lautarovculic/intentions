@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+/build
+/captures
+build/
+
+# Kotlin (2.x build cache / session dirs)
+.kotlin/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/deploymentTargetSelector.xml
+
+# Local config (machine-specific SDK path, etc.)
+local.properties
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Build outputs / artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Signing material (never commit these)
+keystore.properties
+*.keystore
+*.jks
+
+# Logs / scratch
+*.log
+
+# OS
+.DS_Store

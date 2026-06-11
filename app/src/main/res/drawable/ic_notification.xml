@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- notification icon: solid square with the "I" cut out (inverse of the launcher) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFFFF">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M5.5,3 L18.5,3 Q21,3 21,5.5 L21,18.5 Q21,21 18.5,21 L5.5,21 Q3,21 3,18.5 L3,5.5 Q3,3 5.5,3 Z M10.6,7 L13.4,7 L13.4,17 L10.6,17 Z" />
+</vector>

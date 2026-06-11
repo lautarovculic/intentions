@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- adaptive icon foreground: the orange "I" bar -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF7A18"
+        android:pathData="M49.5,27 L58.5,27 L58.5,81 L49.5,81 Z" />
+</vector>
